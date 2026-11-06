@@ -1,5 +1,3 @@
-# Duke RESTORE Seagrass Team
-
 We develop and test practical, scalable approaches to seagrass restoration at the Duke University Marine Lab in Beaufort, North Carolina. Our research combines field and laboratory experiments, aquaculture, and monitoring to improve restoration outcomes and support coastal resilience.
 
 Our work focuses on:
